@@ -1,0 +1,10 @@
+D:\CSharp\Masini4Lab8\Masini4Lab8\bin\Debug\Masini4Lab8.exe.config
+D:\CSharp\Masini4Lab8\Masini4Lab8\bin\Debug\Masini4Lab8.exe
+D:\CSharp\Masini4Lab8\Masini4Lab8\bin\Debug\Masini4Lab8.pdb
+D:\CSharp\Masini4Lab8\Masini4Lab8\obj\Debug\Masini4Lab8.csprojAssemblyReference.cache
+D:\CSharp\Masini4Lab8\Masini4Lab8\obj\Debug\Masini4Lab8.Form1.resources
+D:\CSharp\Masini4Lab8\Masini4Lab8\obj\Debug\Masini4Lab8.Properties.Resources.resources
+D:\CSharp\Masini4Lab8\Masini4Lab8\obj\Debug\Masini4Lab8.csproj.GenerateResource.cache
+D:\CSharp\Masini4Lab8\Masini4Lab8\obj\Debug\Masini4Lab8.csproj.CoreCompileInputs.cache
+D:\CSharp\Masini4Lab8\Masini4Lab8\obj\Debug\Masini4Lab8.exe
+D:\CSharp\Masini4Lab8\Masini4Lab8\obj\Debug\Masini4Lab8.pdb

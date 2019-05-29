@@ -1,0 +1,11 @@
+Nume: asdfg
+Prenume: qwfeng
+Nr. Telefon: 123456
+CNP: 1234678
+Adresa: qsdgbfgb
+Marca masina: afssdgvs
+Norma de poluare:Euro 5
+Emisia de dioxid de carbon:122
+Capacitatea cilindrica:1111
+Vechimea autovehiculului:<3 ani
+Suma de plata:  7.07707
